@@ -1,21 +1,23 @@
-<h1 align="center">Всем привет! Это Денис Голиков.</h1>
+<h1 align="center">Hi everyone! I am Denis Golikov and I like data.</h1>
 
-Я занимаюсь внедрением BI-аналитики и CRM "Битрикс24".  
-Изучаю аналитику данных, SQL, Python, инструменты визуализации.
+Now I work as a data engineer in the company "Improvado".
+I was also engaged in the implementation of BI-analytics and CRM "Bitrix24".  
+I study data analytics, SQL, Python, dbt.
+I use BI-tools: Power BI, SuperSet, Redash, Google Data Studio.
 
-#### Реализованные мной проекты:
-<h4 align="left"><a href="https://golikum.github.io/Public/" target="_blank">BI-аналитика (Power BI)</a></h4>
-<h4 align="left"><a href="https://github.com/Golikum/Public/blob/3431b2bbfe456967eb4825dd6cc2c913722778e3/Parsing%20of%20deputies/Parsing.md" target="_blank">Парсинг данных депутатов с сайта партии</a></h4>
+#### Some projects implemented by me:
+<h4 align="left"><a href="https://golikum.github.io/Public/" target="_blank">BI analytics (Power BI)</a></h4>
+<h4 align="left"><a href="https://github.com/Golikum/Public/blob/3431b2bbfe456967eb4825dd6cc2c913722778e3/Parsing%20of%20deputies/Parsing.md" target="_blank">Parsing of deputies' data from the party's website</a></h4>
 
 <br>
 
-#### Связаться со мной:
+#### Contact me:
 <a href = "https://www.linkedin.com/in/denisgolikov"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = ""></a>
 <a href = "https://t.me/denisgolikov"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = ""></a>
 
 
 <!--
-### Всем привет! 👋
+### Hello! 👋
 **Golikum/Golikum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
