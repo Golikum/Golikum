@@ -2,7 +2,7 @@
 
 Now I work as a data engineer in the company "Improvado".  
 I was also engaged in the implementation of BI-analytics and CRM "Bitrix24".  
-I study data analytics, SQL, Python, dbt.
+I study data analytics, SQL, Python, dbt.  
 I use BI-tools: Power BI, SuperSet, Redash, Google Data Studio.
 
 #### Some projects implemented by me:
