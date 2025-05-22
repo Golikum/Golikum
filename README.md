@@ -1,9 +1,9 @@
-<h1 align="center">Hi everyone! I am Denis Golikov and I like data.</h1>
+<h1 align="center">Denis Golikov: Data Engineer</h1>
 
-Now I work as a data engineer in the company "Improvado".  
+Data engineer in the Improvado.  
 I was also engaged in the implementation of BI-analytics and CRM "Bitrix24".  
-I study data analytics, SQL, Python, dbt.  
-I use BI-tools: Power BI, SuperSet, Redash, Google Data Studio.
+I like Clickhouse, SQL, Python, dbt.  
+I use BI-tools: Power BI, SuperSet, Redash, Looker.
 
 #### Some projects implemented by me:
 <h4 align="left"><a href="https://golikum.github.io/Public/" target="_blank">BI analytics (Power BI)</a></h4>
