@@ -2,7 +2,7 @@
 
 Data engineer in the Improvado.    
 I like Clickhouse, SQL, Python, dbt.  
-I use BI-tools: Power BI, SuperSet, Redash, Looker.
+I use BI-tools: Power BI, SuperSet, Redash, Looker.  
 I was also engaged in the implementation of BI-analytics and CRM "Bitrix24".
 
 #### Some projects implemented by me:
